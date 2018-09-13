@@ -3,17 +3,21 @@
 ######################
 
 CLUSTER MEETING REPORT:
-In my cluster meeting we talked about what our path is that brought us to the course, and what we are looking to get out of it.
+In my cluster meeting we talked about what our path is that brought us to the course,
+and what we are looking to get out of it.
 I'm looking to gain more of a perspective on AI that will help me implement algorithms in my work.
 Both Andrew and I are transfer students, which we found interesting.
 
 We also talked about AI in general and what projects we are thinking of doing.
 I told everyone that I'm mostly not sure, but I have always wanted to build a poker bot.
-I read an article about a year ago about how in the next five or so years online poker is just going to be bots playing each other at levels beyond human capacity.
+I read an article a year ago about how in the next five or so years online poker is just going to be
+bots playing each other at levels beyond human capacity.
 I've really wanted to try and mae one since then, but never had the time or correct skill sets.
 
 GENERAL UPDATES:
-I don't have any general updates thus far. I'm hoping today's class will inform me a little more about what I'll be working on and I can start uploading code.
+I don't have any general updates thus far.
+I'm hoping today's class will inform me a little more about what I'll be working on
+and I can start uploading code.
 
 Cheers,
 David
