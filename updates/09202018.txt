@@ -1,0 +1,29 @@
+# September 20, 2018
+
+---
+
+###CLUSTER MEETING REPORT:
+
+My cluster meeting went so well. We decided to meet at a Umass building with couches, which was fun. The meeting started with us talking about what everyone's expectations for the course are. We pretty much agreed that we're looking to expand our knowledge of AI in general, but also have something completed by the end of the course. We then talked for a long time (we met for over an hour!) about each others current work and which of our two ideas we would most like to implement.
+
+I learned a lot just from speaking with Jason about his work at Umass. The three of us went back and forth on the relationship of GA's to RL in general. Ian talked about his magic deck making RL algorithm for a bit, which was cool because one of my roommates is completely obsessed with magic so I could relate on a sort of secondary level.
+
+I am definitely interested in working with Jason and Jack after hearing more about their project and their interest in getting published. I think I could offer some decent coding experience in general. That being said, I still think the poker idea would be a fun project to work on with a group. Both Ian and Jason expressed interest in working on it and we discussed which parts we could realistically complete in a single semester.
+
+###GENERAL UPDATES:
+
+The updates for this week are mostly around fleshing out my ideas with the poker bot. Mainly, the three systems we would need to implement:
+
+ - a poker engine         : used to run the poker games initially, needs to be able to run multiple games and quickly
+ - the GA "brain"         : basically a function that takes a current game state and returns a decision (fold, check, raise)
+ - the interface          : this is the actually bot, at first will interface with our engine but then would work with a site
+
+I also have been doing a lot of research on Genetic Algorithms and Reinforcement Learning in general.
+I found this resource: [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+Lastly, I've gone basically headfirst into the whole clojure thing. I initially was reading the online version of **Clojure for the Brave and True**, but when I saw it in Barnes and Noble over the weekend I *just had to buy it*! Honestly, it's been pretty tricky so far - very much unlike any language I've used thus far. But, all this hype about how it'll make me a better programmer, I just can't ignore that! WISH ME LUCK!
+
+PS: I'm looking forward to added some code to this repo this week!
+
+Cheers,
+David
