@@ -8,16 +8,18 @@ By: David Hogan
 
 Group Project Link: https://github.com/jzhuo/genetic-sgd
 
-**Update: I've added a new directory containing clojure examples. Will be added to!**
+**Update: I've added a new directory containing clojure examples.**
+
 /sicp: an implementation of exercises from Structure and Interpretation of Computer Programs as functions.
 
 ``` 
 cd sicp
 lein run
 ```
-Open: `src > sicp > core.clj` to see functions that have been implemented.
+Open: `src > sicp > core.clj` to see functions that have been implemented (more to come).
 
 ---
 /updates - contains all weekly progress reports, titled by date ex. 09132018.txt (Spetember 13, 2018)
+
 /sicp - contains clojure exercises from Structure and Interpretation of Computer Programs. 
-  • I need to add exercise and page numbers, and finish a few more.
+<br />• I need to add exercise and page numbers, and finish a few more.

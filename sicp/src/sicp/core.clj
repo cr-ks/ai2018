@@ -1,6 +1,7 @@
 (ns sicp.core
   (:gen-class))
 
+;; Recursive Exponent Function
 (defn expt 
   [b n]
   (if (= n 0)
@@ -13,6 +14,7 @@
     product
     (expt-iter b (- counter 1) (* b product))))
 
+;; Linear Exponent Function
 (defn expt-l 
   [b n]
   (expt-iter b n 1))
@@ -21,5 +23,8 @@
   "I don't do a whole lot ... yet."
   [& args]
 
-  (println "Recursive Exponent: " (expt 2 2))
-  (println "Linear Exponent: " (expt-l 2 2)))
+  (println "Running both Exponent Functions with 13 as a base and 12 as the exponent.")
+  (println "--- Recursive Exponent Function  ---")
+  (println "Solution: " (time (expt 13 12)))
+  (println "--- Linear Exponent Fucntion ---")
+  (println "Solution: " (time (expt-l 13 12))))
