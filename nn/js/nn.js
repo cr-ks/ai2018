@@ -2,7 +2,7 @@
 // Basic Nueral Network Library
 // - from Daniel Shiffman's youtube playlist (10)
 // AI Samples (( v0.1 ))
-// CRKS | September 1, 2018
+// CRKS | September 1, 2018 | Updated: October 28, 2018
 // ----------------------------------------------------------------------------------//
 
 // Step One: initialize the network with a dimensions array

@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------------#
 # Matrix Library for use with Neural Networks
 # AI Samples (( v0.1 ))
-# CRKS | September 4, 2018
+# CRKS | September 4, 2018 | Updated: October 28, 2018
 # ----------------------------------------------------------------------------------#
 import random
 

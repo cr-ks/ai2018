@@ -2,7 +2,7 @@
 // Matrix Library for use with Neural Networks
 // - from Daniel Shiffman's youtube playlist (10)
 // AI Samples (( v0.1 ))
-// CRKS | September 1, 2018
+// CRKS | September 1, 2018 | Updated: October 28, 2018
 // ----------------------------------------------------------------------------------//
 
 // matrix definition
